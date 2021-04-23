@@ -1,24 +1,15 @@
-# README
+# Notes-Log
+An Application to keep track of all your notes in a single place
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
+This is a test Ruby On Rails application to practice ruby on production level
 
-Things you may want to cover:
+## Work in Progress
 
-* Ruby version
+* [x] Create a new Rails App
+* [x] Generate a Scaffold for Notes
+* [ ] Add Styling
+* [ ] Set up Notes routes
+* [ ] Testing
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+.... More to be added Soon
