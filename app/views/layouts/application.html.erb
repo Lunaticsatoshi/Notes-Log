@@ -17,11 +17,12 @@
       <%= notice %>
     </div>
   <% end %>
-    <% if alert.present? %>
+  <% if alert.present? %>
     <div class="notification is-danger is-light">
       <%= notice %>
     </div>
   <% end %>
+  <%= render 'shared/header' %>
     <div class="container">
       <%= yield %>
     </div>
